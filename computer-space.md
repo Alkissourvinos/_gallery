@@ -10,5 +10,5 @@ categories:
   - Βιντεοπαιχνίδια
 tags:
   - spacewar
-  - NolanBushnell
+  - Nolan-Bushnell
 ---
